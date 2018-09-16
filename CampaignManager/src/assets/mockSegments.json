@@ -1,0 +1,9002 @@
+[
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 3000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 3000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 40,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 47,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 45,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 23,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 27,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 3000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 3000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 8500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 52,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 8500000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 10000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 42,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 10000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 51,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 23000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 10000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 57,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 30000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 11000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 20000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 29,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 30000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 46,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 58,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 49,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 17000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 33,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 2500000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 56,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 23000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 50,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 11000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 36,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_1"
+  },
+  {
+    "age": 21,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 7000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 44,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 20000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 41,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 22,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 7000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 18,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 17000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 35,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 24000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 19,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 2500000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 25,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 2,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 9000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 38,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 6000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 53,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 6,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 24000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 2,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 17000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 59,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 55,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 2500000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 39,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 13000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 20,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 11000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 60,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 6000000,
+    "segment": "seg_4"
+  },
+  {
+    "age": 32,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 30000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 54,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 24000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 28,
+    "maritalStatus": "married",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 2500000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 31,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 1,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 24,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 23000000,
+    "segment": "seg_3"
+  },
+  {
+    "age": 30,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 3,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 20000000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 48,
+    "maritalStatus": "married",
+    "sex": "M",
+    "stratum": 6,
+    "productMaxCategory": "GENERORO",
+    "monthlyBilling": 8500000,
+    "segment": "seg_6"
+  },
+  {
+    "age": 34,
+    "maritalStatus": "single",
+    "sex": "M",
+    "stratum": 1,
+    "productMaxCategory": "AMEXGOLD",
+    "monthlyBilling": 13000000,
+    "segment": "seg_5"
+  },
+  {
+    "age": 26,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 13000000,
+    "segment": "seg_2"
+  },
+  {
+    "age": 37,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 4,
+    "productMaxCategory": "GENEPLAT",
+    "monthlyBilling": 17000000,
+    "segment": "seg_7"
+  },
+  {
+    "age": 43,
+    "maritalStatus": "single",
+    "sex": "F",
+    "stratum": 5,
+    "productMaxCategory": "GENECLAS",
+    "monthlyBilling": 9000000,
+    "segment": "seg_7"
+  }
+]

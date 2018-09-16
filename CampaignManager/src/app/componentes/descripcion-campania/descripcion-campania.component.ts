@@ -1,4 +1,7 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from '@angular/router';
+import { CampaniasService } from '../../servicios/campanias.service';
+
 
 @Component({
   selector: 'app-descripcion-campania',
@@ -7,9 +10,21 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DescripcionCampaniaComponent implements OnInit {
 
-  constructor() { }
+  public campanias: any;
+
+  constructor(private router:Router, private campaniasService:CampaniasService) { }
 
   ngOnInit() {
+    this.campanias = this.campaniasService.getCampanias();
   }
+  
+  
+
+  public irADetalle(compania) {
+    this.campaniasService.seleccionarCampania(compania);
+    this.router.navigate(['/detail']);
+  } 
+
+  
 
 }

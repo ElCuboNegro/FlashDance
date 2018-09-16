@@ -1,0 +1,200 @@
+<div class="row page-header no-background no-shadow margin-b-0">
+  <div class="col-lg-6 align-self-center ">
+    <h2>{{campania.nombre}}</h2>
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a href="#">Campañas</a></li>
+      <li class="breadcrumb-item active">Detalle</li>
+    </ol>
+  </div>
+  <div class="col-lg-6 align-self-center text-right">
+    <a href="#" class="btn btn-success box-shadow btn-icon btn-rounded" data-toggle="modal" data-target=".bs-example-modal-default"><i class="fa fa-plus"></i> Nueva Audiencia</a>    
+  </div>
+</div>
+
+<section class="main-content">
+  <div class="row">
+      <div class="col-sm-12">
+          <div class="card">
+              <div class="card-header card-default">
+                <div class="row">
+                    Nueva Campaña
+                    <button  class="btn btn-primary margin-l-5 mx-sm-3" data-toggle="modal" data-target="#textModal" (click)="crearCampania()" >Crear Campaña</button>                    
+                </div>
+                  
+              </div>
+              <div class="card-body">
+                  <form method="get" action="">
+
+                      <div class="form-group">
+                          <label>Audiencia</label>
+                              <select name="account" class="form-control m-b" [(ngModel)]="selectedValue">
+                                  <option *ngFor="let audiencia of audiencias; let i = index" [ngValue]="audiencia">
+                                      {{ audiencia.nombre }} <p class="text-primary" *ngIf="i == 0">({{segmento1}}</p> <p class="text-primary" *ngIf="i == 1">({{segmento2}}</p> <p class="text-primary" *ngIf="i == 2">({{segmento3}}</p> <p class="text-primary" *ngIf="i == 3">({{segmento4}}</p> <p class="text-primary" *ngIf="i == 4">({{segmento5}}</p> <p class="text-primary" *ngIf="i == 5">({{segmento6}}</p> <p class="text-primary" *ngIf="i == 6">({{segmento7}}</p> Personas)
+                                  </option>                                                                 
+                              </select>
+                      </div>
+
+                      <div class="form-group row">
+                          <label for="nombreCampania" class="col-sm-2 col-form-label">Nombre Campaña</label>
+                          <div class="col-sm-10">
+                          <input type="text" class="form-control" id="nombreCampania" name="nombreCampania" placeholder="Nombre de la campaña" [(ngModel)]="nuevacampania.nombre">
+                          </div>
+                      </div>
+
+                        <div class="radio radio-primary">
+                          <input type="radio" name="radio4" id="radio1" value="true" checked="" [(ngModel)]="tipoCampania">
+                          <label for="radio1"> Pauta</label>                          
+                        </div>
+
+                        <div class="form-group row" *ngIf="tipoCampania == 'true'">
+                            <label for="nombreCampania" class="col-sm-2 col-form-label">Nombre Pauta</label>
+                            <div class="col-sm-10">
+                            <input type="text" class="form-control" id="nombreCampania" placeholder="Nombre de la pauta">
+                            </div>
+                        </div>
+
+                        <div class="form-group" *ngIf="tipoCampania == 'true'">
+                            <label>Canal</label>
+                                <select name="account" class="form-control m-b">
+                                    <option>Facebook</option>
+                                    <option>Twitter</option>
+                                    <option>Instagram</option>                                 
+                                </select>
+                        </div>
+                        
+
+                        <div class="radio radio-primary">
+                            <input type="radio" name="radio4" id="radio2" value="false" checked="" [(ngModel)]="tipoCampania">
+                            <label for="radio2"> Puntos</label>                          
+                          </div>
+                      <div class="form-group row" *ngIf="tipoCampania == 'false'">
+                          <label for="nombreProduto" class="col-sm-2 col-form-label">Nombre Producto</label>
+                          <div class="col-sm-10">
+                          <input type="text" class="form-control" id="nombreProducto" placeholder="Nombre del producto canjeable por puntos">
+                          </div>
+                      </div>
+
+                      <div class="form-group" *ngIf="tipoCampania == 'false'">
+                          <label>Canal</label>
+                              <select name="account" class="form-control m-b">
+                                  <option>Facebook</option>
+                                  <option>Twitter</option>
+                                  <option>Instagram</option>                                 
+                              </select>
+                      </div>
+                  </form>                  
+              </div>
+          </div>
+      </div>
+  </div>
+</section>
+  
+<div class="modal fade" id="textModal" tabindex="-1" role="dialog" aria-labelledby="textModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" class="fa fa-times"></span></button>
+                <h5 class="modal-title" id="myModalLabel">Creación Campaña</h5>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Se ha creado y publicado correctamente la campaña. 
+                </p><br>
+                <div class="text-center">
+                    <button class="btn btn-primary btn-lg" data-dismiss="modal">Ok</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade bs-example-modal-default" tabindex="-1" role="dialog" aria-labelledby="myDefaultModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                
+                <div class="modal-body">
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-header  card-indigo">
+                                Crear Audiencia
+                            </div>
+                            <div class="card-body">
+                                <div class="form-group row" >
+                                    <label for="nombreProduto" class="col-sm-5 col-form-label">Nombre Audiencia</label>
+                                    <div class="col-sm-7">
+                                    <input type="text" class="form-control" id="nombreProducto" placeholder="Nombre nueva audiencia" [(ngModel)]="nuevaAudiencia.nombre">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label>Criterio</label>
+                                        <select name="criterio" class="form-control m-b">
+                                            <option>Edad</option>
+                                            <option>Número Total de Cuotas</option>
+                                            <option>Código de actividad</option>                                 
+                                        </select>
+                                </div>
+                                
+
+                                <div class="form-group">
+                                    <label>Tipo de Criterio</label>
+                                        <select name="tipoCriterio" class="form-control m-b" [(ngModel)]="tipoCriterio">
+                                            <option value="true">Numerico</option>
+                                            <option value="false">Verdadero/Falso</option>                                           
+                                        </select>
+                                </div> 
+
+                                <div class="row" *ngIf="tipoCriterio == 'true'">
+                                        <div class="radio radio-primary">
+                                            <input type="radio" name="regla" id="igual" value="true" checked="" [(ngModel)]="regla">
+                                            <label for="igual"> Igual a</label>                          
+                                        </div>
+                                        <div class="radio radio-primary">
+                                            <input type="radio" name="regla" id="rango" value="false" checked="" [(ngModel)]="regla">
+                                            <label for="rango"> Rango</label>                          
+                                        </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="form-group row" *ngIf="tipoCriterio == 'true' && regla == 'true'">
+                                        <label for="valorCriterio" class="col-sm-5 col-form-label">Valor Criterio</label>
+                                        <div class="col-sm-5">
+                                        <input type="text" class="form-control" id="valorCriterio" name="valorCriterio">
+                                        </div>
+                                    </div>
+                                    <div class="form-group col-sm-5" *ngIf="tipoCriterio == 'true' && regla == 'false'">                                        
+                                        <div>
+                                        <input type="text" class="form-control" id="valorCriterio" name="valorCriterio">
+                                        </div>
+                                        
+                                    </div>
+                                    
+                                    <p *ngIf="tipoCriterio == 'true' && regla == 'false'">Hasta</p>
+                                    
+                                    <div class="form-group col-sm-5" *ngIf="tipoCriterio == 'true' && regla == 'false'">                                        
+                                        <div >
+                                        <input type="text" class="form-control" id="valorCriterio" name="valorCriterio">
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="row" *ngIf="tipoCriterio == 'false'">
+                                    <label>Valor del Criterio</label>
+                                    <select name="valorCriterio" class="form-control m-b" [(ngModel)]="valorCriterio">
+                                        <option value="true">Verdadero</option>
+                                        <option value="false">Falso</option>                                           
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+                    <button type="button" class="btn btn-primary" data-dismiss="modal" (click)="crearAudiencia()">Crear</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    

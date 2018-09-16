@@ -28,7 +28,8 @@
         "assets/lib/datatables/responsive.bootstrap.min.css",
         "assets/lib/toast/jquery.toast.min.css",
         "assets/css/icons.css",
-        "assets/css/style.css"        
+        "assets/css/style.css",
+        "assets/lib/chartjs/chartjs-sass-default.css"       
       ],
       "scripts": [
         "assets/lib/jquery/dist/jquery.min.js",
@@ -49,7 +50,13 @@
         "assets/lib/datatables/jquery.dataTables.min.js",
         "assets/lib/datatables/dataTables.responsive.min.js",
         "assets/lib/toast/jquery.toast.min.js",
-        "assets/js/dashboard.js"
+        "assets/js/dashboard.js",
+        "assets/lib/flot/jquery.flot.js",
+        "assets/lib/flot/jquery.flot.resize.js",
+        "assets/lib/flot/jquery.flot.pie.js",
+        "assets/lib/flot/jquery.flot.time.js",
+        "assets/lib/flot/jquery.flot.tooltip.min.js",
+        "assets/js/flot.custom.js"
       ],
       "environmentSource": "environments/environment.ts",
       "environments": {
