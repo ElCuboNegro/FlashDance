@@ -30,7 +30,27 @@
         "assets/css/icons.css",
         "assets/css/style.css"        
       ],
-      "scripts": [],
+      "scripts": [
+        "assets/lib/jquery/dist/jquery.min.js",
+        "assets/lib/bootstrap/js/popper.min.js",
+        "assets/lib/bootstrap/js/bootstrap.min.js",
+        "assets/lib/pace/pace.min.js",
+        "assets/lib/jasny-bootstrap/js/jasny-bootstrap.min.js",
+        "assets/lib/slimscroll/jquery.slimscroll.min.js",
+        "assets/lib/nano-scroll/jquery.nanoscroller.min.js",
+        "assets/lib/metisMenu/metisMenu.min.js",
+        "assets/js/custom.js",
+        "assets/lib/chartjs/chart.min.js",
+        "assets/lib/chartjs/chartjs-sass.js",
+        "assets/lib/vectormap/jquery-jvectormap-2.0.2.min.js",
+        "assets/lib/vectormap/jquery-jvectormap-us-aea-en.js",
+        "assets/lib/chart-c3/d3.min.js",
+        "assets/lib/chart-c3/c3.min.js",
+        "assets/lib/datatables/jquery.dataTables.min.js",
+        "assets/lib/datatables/dataTables.responsive.min.js",
+        "assets/lib/toast/jquery.toast.min.js",
+        "assets/js/dashboard.js"
+      ],
       "environmentSource": "environments/environment.ts",
       "environments": {
         "dev": "environments/environment.ts",
